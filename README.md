@@ -1,6 +1,6 @@
 # Legal Chatbot
 
-Lumilex is an AI-powered chatbot designed to provide basic legal information and assistance. It utilizes OpenAI's GPT-3.5-turbo model to generate responses to user queries related to legal topics. **Please note that this chatbot only works if you have a paid subscription of OpenAI.
+Lumilex is an AI-powered chatbot designed to provide basic legal information and assistance. It utilizes OpenAI's GPT-3.5-turbo model to generate responses to user queries related to legal topics. **Please note that this chatbot only works if you have a paid subscription of OpenAI.**
 
 ## Features
 
